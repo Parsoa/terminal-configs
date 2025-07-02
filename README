@@ -1,0 +1,7 @@
+# Tmux
+
+For tmux, move the `.tmux.conf` and `.tmux.conf.local` files under `~` and load via `tmux source-file ~/.tmux.conf`.
+
+# ZSH
+
+For ZSH, `oh-my-zsh` and `antigen` are required. Install these separately.

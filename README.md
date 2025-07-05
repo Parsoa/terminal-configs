@@ -30,3 +30,5 @@ Install (Vundle)[https://github.com/VundleVim/Vundle.vim]:
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
+
+Might need to the delete the `.antigen` directory if things aren't working.

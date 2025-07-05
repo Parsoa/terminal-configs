@@ -30,11 +30,3 @@ Install (Vundle)[https://github.com/VundleVim/Vundle.vim]:
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
-
-Install vim colors:
-
-```
-git clone git@github.com:rafi/awesome-vim-colorschemes.git
-```
-
-Move the `colors` dir under `.vim`
